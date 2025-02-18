@@ -7,7 +7,7 @@ Déclare une autre variable qui contient ton âge.
 
 Déclare une autre variable qui contiendra le résultat de la soustraction de 64 moins ton âge en utilisant les deux variables précédentes.
 
-Avec l’instruction alert(….) , tu afficheras "Résultat soustraction années à travailler avant la retraite ! Courage ! En développant ce sera plus fun ! ".
+Avec l’instruction alert(….)  tu afficheras "Résultat soustraction années à travailler avant la retraite ! Courage ! En développant ce sera plus fun ! ".
 
 Pour coder vous pouvez utiliser la partie javascript de l’outil CodePen :*/ 
 
